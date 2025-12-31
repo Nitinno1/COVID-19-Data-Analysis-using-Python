@@ -133,15 +133,6 @@ python covid_analysis.py
 
 ---
 
-## 🚀 Future Enhancements
-
-* Add Power BI / Tableau dashboard
-* Automate state selection using dropdowns
-* Forecast future cases using time-series models
-* Deploy as a Streamlit web app
-
----
-
 ## 👤 Author
 
 **Nitin**
